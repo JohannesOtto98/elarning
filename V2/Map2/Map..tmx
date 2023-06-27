@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="12" nextobjectid="2">
  <tileset firstgid="1" name="WA_Room_Builder" tilewidth="32" tileheight="32" tilecount="1000" columns="25">
-  <image source="../WA/Map_Base/tileset/WA_Room_Builder.png" width="800" height="1280"/>
+  <image source="tileset/WA_Room_Builder.png" width="800" height="1280"/>
  </tileset>
  <tileset firstgid="1001" name="WA_Special_Zones" tilewidth="32" tileheight="32" tilecount="12" columns="6">
-  <image source="../WA/Map_Base/tileset/WA_Special_Zones.png" width="192" height="64"/>
+  <image source="tileset/WA_Special_Zones.png" width="192" height="64"/>
  </tileset>
  <tileset firstgid="1013" name="WA_Exterior" tilewidth="32" tileheight="32" tilecount="850" columns="25">
-  <image source="../WA/Map_Base/tileset/WA_Exterior.png" width="800" height="1088"/>
+  <image source="tileset/WA_Exterior.png" width="800" height="1088"/>
  </tileset>
  <tileset firstgid="1863" name="WA_Other_Furniture" tilewidth="32" tileheight="32" tilecount="156" columns="12">
-  <image source="../WA/Map_Base/tileset/WA_Other_Furniture.png" width="384" height="416"/>
+  <image source="tileset/WA_Other_Furniture.png" width="384" height="416"/>
  </tileset>
  <tileset firstgid="2019" name="WA_Decoration" tilewidth="32" tileheight="32" tilecount="96" columns="12">
-  <image source="../WA/Map_Base/tileset/WA_Decoration.png" width="384" height="256"/>
+  <image source="tileset/WA_Decoration.png" width="384" height="256"/>
  </tileset>
  <tileset firstgid="2115" name="WA_Seats" tilewidth="32" tileheight="32" tilecount="182" columns="13">
-  <image source="../WA/Map_Base/tileset/WA_Seats.png" width="416" height="448"/>
+  <image source="tileset/WA_Seats.png" width="416" height="448"/>
  </tileset>
  <tileset firstgid="2297" name="WA_Tables" tilewidth="32" tileheight="32" tilecount="270" columns="10">
-  <image source="../WA/Map_Base/tileset/WA_Tables.png" width="320" height="864"/>
+  <image source="tileset/WA_Tables.png" width="320" height="864"/>
  </tileset>
  <tileset firstgid="2567" name="WA_Miscellaneous" tilewidth="32" tileheight="32" tilecount="110" columns="10">
-  <image source="../WA/Map_Base/tileset/WA_Miscellaneous.png" width="320" height="352"/>
+  <image source="tileset/WA_Miscellaneous.png" width="320" height="352"/>
  </tileset>
  <tileset firstgid="2677" name="microphone" tilewidth="32" tileheight="32" tilecount="1" columns="1">
-  <image source="../../Downloads/pixil-frame-0.png" width="32" height="32"/>
+  <image source="tileset/pixil-frame-0.png" width="32" height="32"/>
  </tileset>
  <tileset firstgid="2678" name="mic2" tilewidth="32" tileheight="32" tilecount="1" columns="1">
   <image source="tileset/pixil-frame-0__1_.png" width="32" height="32"/>
  </tileset>
  <tileset firstgid="2679" name="WA_Special_Zones" tilewidth="32" tileheight="32" tilecount="12" columns="6">
-  <image source="../WA/Map_Base/tileset/WA_Special_Zones.png" width="192" height="64"/>
+  <image source="tileset/WA_Special_Zones.png" width="192" height="64"/>
  </tileset>
  <tileset firstgid="2691" name="WA_Room_Builder" tilewidth="32" tileheight="32" tilecount="1000" columns="25">
-  <image source="../WA/Map_Base/tileset/WA_Room_Builder.png" width="800" height="1280"/>
+  <image source="tileset/WA_Room_Builder.png" width="800" height="1280"/>
  </tileset>
  <tileset firstgid="3691" name="OnAir" tilewidth="32" tileheight="32" tilecount="1" columns="1">
-  <image source="../WA/Map_Base/tileset/OnAir.png" width="32" height="32"/>
+  <image source="tileset/OnAir.png" width="32" height="32"/>
  </tileset>
  <tileset firstgid="3692" name="sign 2" tilewidth="32" tileheight="32" tilecount="2" columns="2">
-  <image source="../WA/Map_Base/tileset/sign 2.png" width="64" height="32"/>
+  <image source="tileset/sign 2.png" width="64" height="32"/>
  </tileset>
  <tileset firstgid="3694" name="Sign1" tilewidth="32" tileheight="32" tilecount="2" columns="2">
-  <image source="../WA/Map_Base/tileset/Sign1.png" width="64" height="32"/>
+  <image source="tileset/Sign1.png" width="64" height="32"/>
  </tileset>
  <tileset firstgid="3696" name="WA_Exterior" tilewidth="32" tileheight="32" tilecount="850" columns="25">
-  <image source="../WA/Map_Base/tileset/WA_Exterior.png" width="800" height="1088"/>
+  <image source="tileset/WA_Exterior.png" width="800" height="1088"/>
  </tileset>
  <layer id="5" name="collisoin" width="30" height="20">
   <data encoding="csv">
