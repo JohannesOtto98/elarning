@@ -371,7 +371,7 @@
         {
          "columns":25,
          "firstgid":1,
-         "image":"..\/e-learning-main\/V2\/Map2\/tileset\/WA_Room_Builder.png",
+         "image":"tileset\/WA_Room_Builder.png",
          "imageheight":1280,
          "imagewidth":800,
          "margin":0,
@@ -384,7 +384,7 @@
         {
          "columns":6,
          "firstgid":1001,
-         "image":"..\/e-learning-main\/V2\/Map2\/tileset\/WA_Special_Zones.png",
+         "image":"tileset\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -407,7 +407,7 @@
         {
          "columns":25,
          "firstgid":1013,
-         "image":"..\/WA\/Map_Base\/tileset\/WA_Exterior.png",
+         "image":"tileset\/WA_Exterior.png",
          "imageheight":1088,
          "imagewidth":800,
          "margin":0,
@@ -420,7 +420,7 @@
         {
          "columns":13,
          "firstgid":1863,
-         "image":"..\/e-learning-main\/V2\/Map2\/tileset\/WA_Seats.png",
+         "image":"tileset\/WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,
@@ -433,7 +433,7 @@
         {
          "columns":10,
          "firstgid":2045,
-         "image":"..\/e-learning-main\/V2\/Map2\/tileset\/WA_Tables.png",
+         "image":"tileset\/WA_Tables.png",
          "imageheight":864,
          "imagewidth":320,
          "margin":0,
@@ -446,7 +446,7 @@
         {
          "columns":1,
          "firstgid":2315,
-         "image":"..\/WA\/Map_Base\/tileset\/pixil-frame-0__1_.png",
+         "image":"tileset\/pixil-frame-0__1_.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -459,7 +459,7 @@
         {
          "columns":10,
          "firstgid":2316,
-         "image":"..\/e-learning-main\/V2\/Map2\/tileset\/WA_Miscellaneous.png",
+         "image":"tileset\/WA_Miscellaneous.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -472,7 +472,7 @@
         {
          "columns":12,
          "firstgid":2426,
-         "image":"..\/e-learning-main\/V2\/Map2\/tileset\/WA_Other_Furniture.png",
+         "image":"tileset\/WA_Other_Furniture.png",
          "imageheight":416,
          "imagewidth":384,
          "margin":0,
@@ -485,7 +485,7 @@
         {
          "columns":1,
          "firstgid":2582,
-         "image":"..\/WA\/Map_Base\/tileset\/OnAir.png",
+         "image":"tileset\/OnAir.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -498,7 +498,7 @@
         {
          "columns":2,
          "firstgid":2583,
-         "image":"..\/WA\/Map_Base\/tileset\/ghost all.png",
+         "image":"tileset\/ghost all.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
