@@ -390,7 +390,7 @@
                  "y":536.249413342273
                 }, 
                 {
-                 "height":194.381495139122,
+                 "height":159.624539054643,
                  "id":3,
                  "name":"Vortrag",
                  "properties":[
@@ -407,14 +407,14 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/file-examples.com\/storage\/fe8ec1a8f464ac695986bbb\/2017\/11\/file_example_MP3_700KB.mp3"
+                         "value":"src\/Assets\/AU-20221223-1522-2700.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":355.29332886356,
+                 "width":266.46999664767,
                  "x":460.851491786792,
-                 "y":417.083473013745
+                 "y":451.840429098224
                 }, 
                 {
                  "height":88.1877304726785,
@@ -493,7 +493,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.stefantesch.at\/nachteile-podcast\/"
+                         "value":"https:\/\/tome.app\/e-learning-baa\/die-dunkle-seite-der-podcasts-cljy19dye08obpr3b8l9h06tm"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
